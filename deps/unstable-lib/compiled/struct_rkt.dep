@@ -1,0 +1,1 @@
+("6.6.0.4" ("d1bb1763a811f9bd5b9468baf565b2d2c475f13b" . "cc69174adb1a27fe09dae4daabdcc9d7beffb9c5") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"struct-info.rkt") (collects #"racket" #"struct.rkt"))

@@ -1,0 +1,1 @@
+("6.6.0.4" ("eb03bc833ac5fbee84e38c4f56c229395363b402" . "4c170f9d6e592cfa31da9c238787e9c9c91a834b") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"syntax.rkt") (collects #"syntax" #"location.rkt") (collects #"syntax" #"transformer.rkt"))

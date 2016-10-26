@@ -1,0 +1,1 @@
+("6.6.0.4" ("c742e8682d9360e4823c412794ce2b66962203bd" . "b5a5551e84f61aafc246425042f0833fcda37c69") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"temp-c" #"monitor.rkt"))

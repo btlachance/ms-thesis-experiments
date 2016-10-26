@@ -1,0 +1,1 @@
+("6.6.0.4" ("e1f018226c9df08228107b2bfa9d05dc80f75474" . "5a505d7b860dce69bcad0ade59ed80084ad640e3") (collects #"ppict" #"align.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

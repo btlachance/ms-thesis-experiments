@@ -1,0 +1,1 @@
+("6.6.0.4" ("83c2df30e423d0ae392ca70997e47144b9183a2a" . "55588e050feca3e0dc33c7f06ca5c77184fc7448") (collects #"mrlib" #"snip-canvas.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

@@ -1,0 +1,18 @@
+--- share/racket/pkgs/typed-racket-lib/typed-racket/base-env/prims-contract.rkt
++++ share/racket/pkgs/typed-racket-lib/typed-racket/base-env/prims-contract.rkt
+@@ -325,16 +325,7 @@
+        #`(#%expression
+           #,(ignore-some/expr
+              #`(let-values (((val) #,(with-type* v #'Any)))
+-                 #,(syntax-property
+-                    (quasisyntax/loc stx
+-                      (contract
+-                       #,ctc-expr
+-                       val
+-                       '#,pos
+-                       '#,neg
+-                       #f
+-                       (quote-srcloc #,stx)))
+-                    'feature-profile:TR-dynamic-check #t))
++                 val)
+              #'ty)))

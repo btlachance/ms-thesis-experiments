@@ -1,0 +1,1 @@
+("6.6.0.4" ("a2cdd346439e89839b322c5422a58d05114128b1" . "331962d80ac4c5b2ff0686469e347238d90e5e47") (collects #"automata" #"machine.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))

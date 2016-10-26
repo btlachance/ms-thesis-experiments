@@ -1,0 +1,8 @@
+[submodule "gradual-typing-performance"]
+	path = gradual-typing-performance
+	url = https://github.com/btlachance/gradual-typing-performance.git
+	branch = typed-contracts
+[submodule "typed-racket"]
+	path = typed-racket
+	url = https://github.com/btlachance/typed-racket.git
+	branch = conTRacts

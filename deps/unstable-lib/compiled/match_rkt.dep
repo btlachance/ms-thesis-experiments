@@ -1,0 +1,1 @@
+("6.6.0.4" ("8af6b1a845230459117912332adfe4ffdc401e45" . "0509de466c6459f72a0a3fe52af703c369677d75") (collects #"racket" #"base.rkt") (collects #"racket" #"class.rkt") (collects #"racket" #"match.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"syntax" #"parse.rkt") (indirect collects #"syntax" #"parse" #"private" #"parse-aux.rkt"))

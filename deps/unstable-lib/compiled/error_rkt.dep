@@ -1,0 +1,1 @@
+("6.6.0.4" ("eb5f17e10c7c445ce283851941b61e806caf0b47" . "85dab9b9246e4d5cf824d447cbd43265c71087a6") (collects #"racket" #"base.rkt") (collects #"racket" #"contract" #"base.rkt") (collects #"racket" #"list.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"racket" #"string.rkt") (collects #"syntax" #"srcloc.rkt") (collects #"syntax" #"stx.rkt"))

@@ -1,0 +1,1 @@
+("6.6.0.4" ("fa6b7cf04eeff970be47bdbb85a5092c9f0392e3" . "c02f2a6c3f1466341bd2b60a2b7cf3065397efa3") (collects #"framework" #"notify.rkt") (collects #"racket" #"base.rkt") (collects #"racket" #"runtime-config.rkt"))
